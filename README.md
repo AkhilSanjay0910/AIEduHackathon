@@ -1,4 +1,4 @@
-# streamlit-AI-planner
+# StudyStride
 ### 1. Create an API Key
 
 If you don’t already have the necessary API key, follow these steps to get it from the respective API provider:
