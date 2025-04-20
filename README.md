@@ -19,4 +19,4 @@ If you don’t already have the necessary API key, follow these steps to get it 
   OPENAI_API_KEY=your-api-key-here
   CANVAS_TOKEN="9195~XmMAC7URnxn9t9R6MCnkGYvGcM78mwxcUyDXW9mMRQACfx7XGfMrPL9BA7QaNL3r"
 
-  ### 3. Run the application: streamlist run planner_form_1.py
+  ### 3. Run the application: streamlit run planner_form_1.py
